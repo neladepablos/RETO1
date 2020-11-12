@@ -9,3 +9,6 @@ _En esta clase de diò lo bàsico e inical de javascript, donde se dejò como de
 
  ---
  ⌨️ con ❤️😊
+
+ ## NOTA:
+ _Se verà el resultado en la consola del navegador.
